@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE configuration
+        PUBLIC "-//mybatis.org//DTD Config 3.0//EN"
+        "http://mybatis.org/dtd/mybatis-3-config.dtd">
+<configuration>
+    <!-- 配置pojo别名 -->
+    <!--<typeAliases>-->
+        <!--&lt;!&ndash; <typeAlias type="cn.itheima.mybatis.po.User" alias="user"/> &ndash;&gt;-->
+        <!--&lt;!&ndash; 扫描包的形式创建别名，别名就是类名，不区分大小写 &ndash;&gt;-->
+        <!--<package name="cn.itheima.mybatis.po" />-->
+    <!--</typeAliases>-->
+
+    <!--&lt;!&ndash; 加载mapper文件 &ndash;&gt;-->
+    <!--<mappers>-->
+        <!--&lt;!&ndash; 告知映射文件方式1，一个一个的配置-->
+     <!--<mapper resource="com/cy/mybatis/mapper/UserMapper.xml"/>&ndash;&gt;-->
+        <!--&lt;!&ndash; 告知映射文件方式2，自动扫描包内的Mapper接口与配置文件 &ndash;&gt;-->
+        <!--<mapper resource=""/>-->
+        <!--<package name="com.springMvc.myBatis.dao"/>-->
+    <!--</mappers>-->
+</configuration>

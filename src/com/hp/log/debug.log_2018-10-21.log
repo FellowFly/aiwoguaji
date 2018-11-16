@@ -1,0 +1,16 @@
+2018-10-21 16:24:37 下午 [Thread: main][ Class:test.UserInfoTest >> Method: test.UserInfoTest.main(UserInfoTest.java:51) ]
+INFO:this is info message
+2018-10-21 16:24:37 下午 [Thread: main][ Class:test.UserInfoTest >> Method: test.UserInfoTest.main(UserInfoTest.java:52) ]
+DEBUG:this is debug message
+2018-10-21 16:24:37 下午 [Thread: main][ Class:test.UserInfoTest >> Method: test.UserInfoTest.main(UserInfoTest.java:53) ]
+WARN:this is warn message
+2018-10-21 16:24:37 下午 [Thread: main][ Class:test.UserInfoTest >> Method: test.UserInfoTest.main(UserInfoTest.java:54) ]
+ERROR:this is error message
+2018-10-21 16:24:58 下午 [Thread: main][ Class:test.UserInfoTest >> Method: test.UserInfoTest.main(UserInfoTest.java:51) ]
+INFO:this is info message
+2018-10-21 16:24:58 下午 [Thread: main][ Class:test.UserInfoTest >> Method: test.UserInfoTest.main(UserInfoTest.java:52) ]
+DEBUG:this is debug message
+2018-10-21 16:24:58 下午 [Thread: main][ Class:test.UserInfoTest >> Method: test.UserInfoTest.main(UserInfoTest.java:53) ]
+WARN:this is warn message
+2018-10-21 16:24:58 下午 [Thread: main][ Class:test.UserInfoTest >> Method: test.UserInfoTest.main(UserInfoTest.java:54) ]
+ERROR:this is error message
